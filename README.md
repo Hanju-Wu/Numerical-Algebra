@@ -1,2 +1,2 @@
 # Numerical-Algebra
-this is the homework of Numerical Algebra in Sun Yat-Sen University
+this is the homework of Numerical Algebra at Sun Yat-Sen University
